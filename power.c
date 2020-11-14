@@ -1,5 +1,5 @@
 #include "myMath.h"
-#define EXP 2.718
+#define EXP 2.7182
 double Exponent(int x){
     if(x==0){
         return 1;
